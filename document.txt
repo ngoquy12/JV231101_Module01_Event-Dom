@@ -1,0 +1,8 @@
+- DOM là cụm từ viết tắt của Document Object Model
+- Trong mô hình DOM thì sẽ có 3 thành phần chính
+  + Element (h1, h2, a, p,...)
+  + Attribute (class, id, src,... chung quy lại thì nó là những thuộc tính nằm bên trong thẻ mở )
+  + Text (là các đoạn văn bản bên trong một thẻ HTML)
+
+
+- Các cách để truy xuất vào trong các phần tử của DOM
